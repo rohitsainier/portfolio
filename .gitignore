@@ -1,0 +1,25 @@
+# Dependency directories
+/node_modules
+.cache
+node_modules
+
+# Build files
+/build
+/dist
+
+# Environment files
+.env
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# macOS specific files
+.DS_Store
+
+# IDE files
+.idea
+.vscode
+
